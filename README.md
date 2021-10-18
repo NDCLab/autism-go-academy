@@ -1,39 +1,35 @@
 # [project name]
 
 ## Project Goal
-:point_right: Replace this text with a pithy description of the goal of the data analysis project.
+:point_right: The goal of this data analysis is to study the relationship between error monitoring and academic achievement in post-kindergarten children with ASD by investigating ERP/EEG patterns related to error monitoring (ERN, Pe, theta power). 
 
 
 ## Background & Design
-:point_right: Replace this text with a slightly longer (but still only max 250 words) description of the project background and its design. 
+Prior studies have shown the presence of an ERN and Pe (ERP/EEG patterns related to error monitoring) in typically developing preschoolers and a significant association between these patterns and academic achievement ([Grammer, Carrasco, Gehring, & Morrison, 2014]( https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC4061373/) and [M. Kim et al., 2016]( https://pubmed.ncbi.nlm.nih.gov/27744098/)). Moreover, Pe and ERN have been detected in children with ASD ([S.H. Kim, Grammer, Benrey, Morrison, & Lord, 2017](https://pubmed.ncbi.nlm.nih.gov/28949003/)) and the predictability of concurrent academic achievement based on Pe and theta power has been proved in pre-kindergartener children with ASD ([S. H. Kim et al, 2022](https://journals.sagepub.com/doi/abs/10.1177/1362361319874920?journalCode=auta)). 
 
 
 ## Roadmap
-:point_right: Insert graphic of planned project releases. [This site](https://app.diagrams.net/) allows you to build a graphic that is connected to GitHub, so that changes you make are treated as GitHub commits.
+
+**Data Processing (Release 1):** anticipated Q4 2021
+**ready-for-submission paper (Release 2):** anticipated Q1 2022
+
 
 
 ## Contents
-:point_right: This section should introduce the content that is published on `main`. Example:
-
-
-#### 2021-07-01 SPR Poster
-This is a description of the poster. There is a matching folder in the repo.
-
-:point_right: When you first set up this readme file, you might replace everything under "Contents" here with something like "Watch for our first release!"
+Watch for our first release!
 
 
 ## Work in Development
 This `main` branch contains completed releases for this project. For all work-in-progress, please switch over to the `dev` branches.
 
-:point_right: Keep the "Work in Development" text above as the default NDCLab "blurb" to help visitors navigate the repo. But delete this note before publishing the readme file.
 
 
 ## Contributors
 | Name | Role |
 | ---  | ---  |
-| insert team member | add team member's role |
-| insert team member | add team member's role |
-| insert team member | add team member's role |
+| Kianoosh Hosseini | project lead |
+| Dr. George Buzzell | guidance |
+
 
 Learn more about us [here](www.ndclab.com/people).
 
@@ -41,4 +37,3 @@ Learn more about us [here](www.ndclab.com/people).
 ## Contributing
 If you are interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-:point_right: Keep the "Contributing" text above as the default NDCLab "blurb" to help visitors navigate the repo. But delete this note before publishing the readme file.
