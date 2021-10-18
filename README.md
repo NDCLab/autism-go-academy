@@ -1,4 +1,4 @@
-# [project name]
+# autism-go-academy
 
 ## Project Goal
 :point_right: The goal of this data analysis is to study the relationship between error monitoring and academic achievement in post-kindergarten children with ASD by investigating ERP/EEG patterns related to error monitoring (ERN, Pe, theta power). 
