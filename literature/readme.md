@@ -1,9 +1,3 @@
 # Literature
 
-### Instructions
-1. Create a collection on the NDCLab Zotero group.
-2. Replaced the capitalized text below with the webpath for the collection.
-
-
-### Project Notes
-Please visit [Zotero](INSERT YOUR LINK HERE) to see relevant publications reviewed.
+Please visit [our lab's Zotero](https://www.zotero.org/groups/2934532/ndc_lab) to see relevant publications reviewed. If you are a lab member, you can see the reviewed publications specifically for this project in the autism-go-academy collection.
