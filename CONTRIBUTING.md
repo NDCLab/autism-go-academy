@@ -1,4 +1,4 @@
-# Contributing to the autism-go-academy project
+# Contributing to [project name]
 
 ## Overview
 Please note our general guidelines for contributing to NDCLab projects [here](https://ndclab.github.io/wiki/docs/contributing.html).
@@ -15,7 +15,6 @@ Please see the roadmap available on the [README.md](README.md) file of this repo
 
 
 ## Directory Structure
-:point_right: Update this section as appropriate for your repo, then delete this note before publishing.
 
 ```yml
 project-name
@@ -26,7 +25,7 @@ project-name
 ├── input
 ├── literature
 ├── notebook.md
-├── products (will be updated soon!)
+├── products
     ├──product1
           ├──code
           ├──docs
