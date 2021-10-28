@@ -1,4 +1,4 @@
-# Contributing to [project name]
+# Contributing to autism-go-academy
 
 ## Overview
 Please note our general guidelines for contributing to NDCLab projects [here](https://ndclab.github.io/wiki/docs/contributing.html).
@@ -17,7 +17,7 @@ Please see the roadmap available on the [README.md](README.md) file of this repo
 ## Directory Structure
 
 ```yml
-project-name
+autism-go-academy
 ├── code
 ├── containers
 ├── CONTRIBUTING.md
