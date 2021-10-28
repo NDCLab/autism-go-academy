@@ -25,7 +25,7 @@ project-name
 ├── input
 ├── literature
 ├── notebook.md
-├── products
+├── products (Will be updated soon!)
     ├──product1
           ├──code
           ├──docs
