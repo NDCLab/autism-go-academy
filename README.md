@@ -1,39 +1,40 @@
-# [project name]
+
+# autism-go-academy
 
 ## Project Goal
-:point_right: Replace this text with a pithy description of the goal of the data analysis project.
+The goal of this data analysis project is to investigate potential differences in cognitive control and task-related mediofrontal theta (4-8 Hz) oscillations among post-kindergarten children that are either typically developing (TD) or diagnosed with autism spectrum disorder (ASD).
 
 
 ## Background & Design
-:point_right: Replace this text with a slightly longer (but still only max 250 words) description of the project background and its design. 
+
+Prior studies in typically developing children, adolescents, and adults have shown that mediofrontal theta oscillations are associated with cognitive control. It has also been found that children with ASD exhibit cognitive control impairments. However, it is not clear how and when cognitive control tasks are impaired in individuals with ASD. To better understand cognitive control in children with ASD, task-related MFC theta power was directly compared in TD and ASD pre-kindergarten children in our prior study ([Buzzell, G. A., Thomas, H. R., Choi, Y. B., & Kim, S. H. (2021)](https://doi.org/10.1016/j.bpsc.2021.03.016)). In this prior study, we identified  reduced theta power in ASD children compared to TD children. To further investigate the differences in theta oscillations between TD and ASD children, we will use time-frequency analyses to evaluate possible differences in mediofrontal theta power and phase synchrony, in a longitudinal dataset spanning pre-post-kindergarten. 
+
+
 
 
 ## Roadmap
-:point_right: Insert graphic of planned project releases. [This site](https://app.diagrams.net/) allows you to build a graphic that is connected to GitHub, so that changes you make are treated as GitHub commits.
+
+**Data Processing (Release 1):** anticipated Q1 2022
+
+**Paper ready-for-submission (Release 2):** anticipated Q3 2022
+
 
 
 ## Contents
-:point_right: This section should introduce the content that is published on `main`. Example:
-
-
-#### 2021-07-01 SPR Poster
-This is a description of the poster. There is a matching folder in the repo.
-
-:point_right: When you first set up this readme file, you might replace everything under "Contents" here with something like "Watch for our first release!"
+Watch for our first release!
 
 
 ## Work in Development
 This `main` branch contains completed releases for this project. For all work-in-progress, please switch over to the `dev` branches.
 
-:point_right: Keep the "Work in Development" text above as the default NDCLab "blurb" to help visitors navigate the repo. But delete this note before publishing the readme file.
 
 
 ## Contributors
 | Name | Role |
 | ---  | ---  |
-| insert team member | add team member's role |
-| insert team member | add team member's role |
-| insert team member | add team member's role |
+| Kianoosh Hosseini | project lead |
+| Dr. George Buzzell | guidance |
+
 
 Learn more about us [here](www.ndclab.com/people).
 
@@ -41,4 +42,3 @@ Learn more about us [here](www.ndclab.com/people).
 ## Contributing
 If you are interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-:point_right: Keep the "Contributing" text above as the default NDCLab "blurb" to help visitors navigate the repo. But delete this note before publishing the readme file.
